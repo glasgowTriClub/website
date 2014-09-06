@@ -1,0 +1,5 @@
+http://wiki.nginx.org/PHPFcgiExample
+
+http://www.howtoforge.com/installing-nginx-with-php5-and-php-fpm-and-mysql-support-on-centos-6.3
+vim /etc/init.d/php-fpm
+
